@@ -84,8 +84,3 @@ No Oracle Database, é possível fazer a conexão com o sqlplus, seguindo o segu
 
 ### Para carregar o scritp DML
 `@caminho/Ate/A/Pasta/Do/Projeto/DML/dados.sql`
-
-## Membros
-- Mateus Demuno Baptista: 184876
-- Julia Santos Souza: 180442
-- Ana Claudia Figueredo: 185172
